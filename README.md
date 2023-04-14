@@ -10,7 +10,7 @@
 <div align="center" style="display: inline_block"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycon&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon&layout=compact&theme=radical)](https://github.com/Maycon/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon&layout=compact&theme=radical)](https://github.com/mayconhpena/github-readme-stats)
  
  </div > 
 
