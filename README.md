@@ -1,6 +1,6 @@
   <h1 align="center">
     Oi, eu sou o 
-    <a href="#">Mayon Humberto</a>
+    <a href="#">Maycon Humberto</a>
   </h1>
   
    <p align="center">
@@ -9,8 +9,8 @@
 
 <div align="center" style="display: inline_block"> 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycon&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon&layout=compact&theme=radical)](https://github.com/mayconhpena/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconhpena&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconhpena&layout=compact&theme=radical)](https://github.com/mayconhpena/github-readme-stats)
  
  </div > 
 
